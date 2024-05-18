@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+#heading{
+	text-align:center;
+	margin:0px;
+}
+
+.middle
+{
+	width:100%;
+	border:1px solid black;
+	margin-bottom:50px;
+}
+
+td
+{
+	padding:1px;
+	height:20px;
+    border:1px solid black;
+}
+.right
+{
+	text-align:right;
+}
+.centerText
+{
+	text-align:center;
+}
+
+#color1
+{
+	background-color:green;
+}
+#color2
+{
+	background-color:blue;
+}
+#t-image
+{
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
